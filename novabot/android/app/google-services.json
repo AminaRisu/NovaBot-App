@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468699766386",
+    "project_id": "novabot-bb073",
+    "storage_bucket": "novabot-bb073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468699766386:android:ab8575ef85299ecca92ceb",
+        "android_client_info": {
+          "package_name": "com.example.gemini_chat_app_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468699766386-7if3tt9nk0bit1d3uulpnr24reqngqdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RP-ex5nGYWliBqZ-_wh24a-ym3d5-3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468699766386-7if3tt9nk0bit1d3uulpnr24reqngqdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
