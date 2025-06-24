@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDU9pCb9HNSTBstuDoFj7HMm0yS8yoL92k',
+    apiKey: 'Your API Key',
     appId: '1:468699766386:web:83c403145a13d59aa92ceb',
     messagingSenderId: '468699766386',
     projectId: 'novabot-bb073',
