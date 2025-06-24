@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC1RP-ex5nGYWliBqZ-_wh24a-ym3d5-3I',
+    apiKey: 'Your API Key',
     appId: '1:468699766386:android:ab8575ef85299ecca92ceb',
     messagingSenderId: '468699766386',
     projectId: 'novabot-bb073',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCKN6_T45cLuETknxgkOihOZuD-nV6bAIo',
+    apiKey: 'Your API Key',
     appId: '1:468699766386:ios:bffc8caada90e24fa92ceb',
     messagingSenderId: '468699766386',
     projectId: 'novabot-bb073',
@@ -69,7 +69,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCKN6_T45cLuETknxgkOihOZuD-nV6bAIo',
+    apiKey: 'Your API Key',
     appId: '1:468699766386:ios:bffc8caada90e24fa92ceb',
     messagingSenderId: '468699766386',
     projectId: 'novabot-bb073',
@@ -79,7 +79,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDU9pCb9HNSTBstuDoFj7HMm0yS8yoL92k',
+    apiKey: 'Your API Key',
     appId: '1:468699766386:web:b83ff350189833dca92ceb',
     messagingSenderId: '468699766386',
     projectId: 'novabot-bb073',
