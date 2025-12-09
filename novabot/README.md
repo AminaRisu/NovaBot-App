@@ -1,4 +1,4 @@
-# gemini_chat_app_tutorial
+# novabot_app_tutorial
 
 A new Flutter project.
 
